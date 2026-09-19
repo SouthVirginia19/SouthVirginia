@@ -23,7 +23,7 @@ I'm interested in Web development, Cybersecurity, Servers and games. Also, I hat
     <h3>Frameworks / Tools</h3>
     <img src="https://skillicons.dev/icons?i=unity,gradle,spring,linux,hibernate,githubactions,django,docker,git,bootstrap&perline=7" />
     <h3>Software</h3>
-    <img src="https://skillicons.dev/icons?i=visualstudio,idea,neovim,postman,ultimate&perline=7" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,idea,neovim,postman,burpsuite,ultimate&perline=7" />
     <br>
   </p>
 </details>
